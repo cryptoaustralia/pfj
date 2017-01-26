@@ -27,8 +27,8 @@ process:
 
 # About Us
 
-#### CryptoAUSTRALIA
+![](ca_logo.png?cropResize=280,280)
 
-[CryptoAUSTRALIA](https://cryptoaustralia.org.au) is a charity whose **vision** is a society where everyone in Australia has the necessary skills to defend their privacy.
+This is a [CryptoAUSTRALIA](https://cryptoaustralia.org.au) project. Our organisation is a charity whose **vision** is a society where everyone in Australia has the necessary skills to defend their privacy.
 
 Our **mission** is to inform and educate ordinary citizens and professionals on privacy and information security. We develop, engage, and grow a community that is concerned with privacy matters.
