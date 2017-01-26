@@ -13,6 +13,12 @@ metadata:
     'twitter:title': 'Community | Privacy for Journalists'
     'twitter:description': 'Interested in privacy? Join our community and get engaged!'
     'twitter:image': 'https://privacyforjournalists.org.au/user/themes/mytheme/images/social.png'
+external_links:
+    process: true
+    title: false
+    no_follow: false
+    target: _blank
+    mode: active
 process:
     markdown: true
     twig: true
@@ -21,6 +27,10 @@ process:
 # Community
 
 We are a bunch of friendly people trying to help journalists with protecting their information sources. You can reach out to our friendly community on the followings:
+
+## Contribute
+
+If you have some valuable content to add to this website, simply visit our **<i class="fa fa-github" aria-hidden="true"></i> GitHub** repo on [cryptoaustralia/pfj](https://github.com/cryptoaustralia/pfj) and submit a pull request. We will review and add to the Privacy for Journalists guides.
 
 ## Chat
 

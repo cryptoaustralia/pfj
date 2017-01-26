@@ -13,6 +13,12 @@ metadata:
     'twitter:title': 'About Us | Privacy for Journalists'
     'twitter:description': 'Who we are and what we do? Find out here'
     'twitter:image': 'https://privacyforjournalists.org.au/user/themes/mytheme/images/social.png'
+external_links:
+    process: true
+    title: false
+    no_follow: false
+    target: _blank
+    mode: active
 menu: About
 process:
     markdown: true
@@ -21,12 +27,8 @@ process:
 
 # About Us
 
-#### Gabor Szathmari
+#### CryptoAUSTRALIA
 
-![Gabor Szathmari](gabor.jpg?lightbox=1024&cropResize=200,200)
+[CryptoAUSTRALIA](https://cryptoaustralia.org.au) is a charity whose **vision** is a society where everyone in Australia has the necessary skills to defend their privacy.
 
-Gabor is a passionate information security freelancer in his professional life. Organiser of the [CryptoParty Sydney](https://www.cryptoparty.in/sydney?target=_blank) privacy workshop. Privacy, government transparency, and free speech advocate.
-
-* **Email:** {{ "gabor@privacyforjournalists.org.au" | safe_email }}
-* **Twitter:** [@gszathmari](https://www.twitter.com/gszathmari?target=_blank)
-* **Blog:** [https://gaborszathmari.me](https://gaborszathmari.me?target=_blank)
+Our **mission** is to inform and educate ordinary citizens and professionals on privacy and information security. We develop, engage, and grow a community that is concerned with privacy matters.
